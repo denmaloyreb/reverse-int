@@ -3,6 +3,6 @@ module.exports = function reverse (n) {
     let str = String(str1);
     let mas = str.split("");
     let rev = mas.reverse().join("");
-    regits = Number(rev);
+    res = Number(rev);
     return(res);
 }
