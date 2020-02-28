@@ -5,5 +5,4 @@ module.exports = function reverse (n) {
     let rev = mas.reverse().join("");
     regits = Number(rev);
     return(res);
-
 }
